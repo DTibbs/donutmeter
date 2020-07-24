@@ -360,3 +360,4 @@ MigrationBackup/
 
 # Custom additions
 build/
+*.lnk
